@@ -1,5 +1,5 @@
-def new_hash(empty)
-  
+def new_hash
+  h = Hash.new("Go Fish")
 end
 
 def actor

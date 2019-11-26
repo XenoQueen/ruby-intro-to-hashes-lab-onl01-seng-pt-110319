@@ -1,5 +1,5 @@
 def new_hash
-  $> new = hash.new
+  $> kids = Hash.new
 end
 
 def actor

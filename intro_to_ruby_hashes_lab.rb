@@ -60,7 +60,7 @@ def monopoly_with_fourth_tier
 	      :shortline => {
 	        :mortgage_value => $800
 	      }
-	      hash.stringifykeys
+	      hash.stringify_keys
 	    },
 	    :rent_in_dollars => {
 	      :one_piece_owned => 25,

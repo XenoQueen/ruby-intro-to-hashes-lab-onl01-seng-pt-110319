@@ -61,7 +61,6 @@ def monopoly_with_fourth_tier
 	        "mortgage_value": $800
 	      }
 	    },
-	    names.stringify_keys
 	    :rent_in_dollars => {
 	      :one_piece_owned => 25,
 	      :two_pieces_owned => 50,

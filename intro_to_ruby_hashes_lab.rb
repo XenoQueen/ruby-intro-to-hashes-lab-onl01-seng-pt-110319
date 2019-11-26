@@ -1,6 +1,5 @@
 def new_hash(empty)
   empty = hash.new
-  binding.pry
   return empty
 end
 
